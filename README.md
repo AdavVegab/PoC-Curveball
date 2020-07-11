@@ -34,6 +34,14 @@ run the POC Bash script, it will run the POC and creates a node server
 
 ### Change the hosts file in the target
 
+- find the hosts file in windows
+
+`c:\Windows\System32\Drivers\etc\hosts`
+- add the following:
+
+`<Host IP> www.fh-muenster.de`
+
 ### Curveballed!
+
 
 
