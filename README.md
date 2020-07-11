@@ -26,9 +26,14 @@ is meant to run on linux with the following packages:
 
 
 ## How to use
+
+### Create the spoofed certificate and run a server
 run the POC Bash script, it will run the POC and creates a node server
 
 `bash PoC.sh`
 
+### Change the hosts file in the target
+
+### Curveballed!
 
 
