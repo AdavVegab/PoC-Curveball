@@ -1,6 +1,9 @@
 # PoC-Curveball (CVE-2020-0601)
  Proof Of Concept for the Curveball vulnerability for the course
  Cryptography and Security - FH Münster
+ 
+ - _Andres David Vega Botero_
+ - _Andres Felipe Herrera Upegui_
 
 > Source: ollypwn (https://github.com/ollypwn/CurveBall)
 
